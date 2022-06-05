@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @wenchnoob
-- 👀 I’m interested in web dev.
-- 🌱 I’m currently learning web dev.
-- 💞️ I’m looking to collaborate on a real estate website for my friend.
-- 📫 How to reach me email: wcdutreuil@gmail.com
+- 👀 I’m interested in natural language processing.
+- 🌱 I’m currently learning about formal languages.
+- 📫 How to reach me: wcdutreuil@gmail.com
 
 <!---
 wenchnoob/wenchnoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
